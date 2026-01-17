@@ -189,9 +189,9 @@ The multimodal model significantly outperforms unimodal approaches, confirming t
 
 ## 👤 Authors
 
-**Abhishek P**  
-**Harsha**
-**Lohit J**
+Abhishek P
+Harsha
+Lohit J
 CSE (AIML)  
 PES University  
 
